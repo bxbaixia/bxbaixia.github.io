@@ -1,45 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 13:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 13:53:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
-        <item>
-            <title><![CDATA[搬家大甩卖]]></title>
-            <guid>8d9a9679a9634591b77693a37e10999c</guid>
-            <pubDate>Mon, 17 Apr 2023 13:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p>离京，搬家，大甩卖。</p>
-<table>
-<thead>
-<tr>
-<th>物品名称</th>
-<th>参数/尺寸</th>
-<th>售价</th>
-<th>图片</th>
-<th>是否出售</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>宜家白色餐桌</td>
-<td>100cm * 60cm</td>
-<td>20</td>
-<td><img src="https://bx-picgo.oss-cn-hangzhou.aliyuncs.com/img/202304172134149.png" /></td>
-<td></td>
-</tr>
-<tr>
-<td>宜家白色折叠椅 * 2</td>
-<td>坐高45cm</td>
-<td>10/把</td>
-<td><img src="https://bx-picgo.oss-cn-hangzhou.aliyuncs.com/img/202304172136353.png" /></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-]]></content:encoded>
-        </item>
     </channel>
 </rss>
